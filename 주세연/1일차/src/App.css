@@ -1,0 +1,26 @@
+.App{
+  border: solid 1px lightgray;
+  background-color: lightgray;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 290px;
+  height: 350px;
+  margin: 50px;
+}
+img{
+  position: relative;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.btn{
+  background:none;
+  border: none;
+}
+.heart{
+  position: absolute;
+  margin-top: -250px;
+  margin-left: 200px;
+}
