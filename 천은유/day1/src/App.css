@@ -1,0 +1,65 @@
+.body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item{
+  position: relative;
+  width: 300px;
+  height: 430px;
+  padding-top: 30px;
+  text-align: center;
+  border-radius: 4px;
+  border: 8px solid #E8E8E8;
+}
+
+.profile{
+  display: flex;
+  margin-left: 13px;
+  color: #a9a9a9;
+}
+
+.profile p {
+  padding-left: 3px;
+  margin: 0px;
+}
+
+.nickname {
+  color: black;
+}
+
+.time {
+  color: #8d8d8d;
+  margin: 0px;
+  font-size: 11px;
+  margin-left: 40px;
+  text-align: left;
+}
+
+.main_text {
+  font-size: 14px;
+  text-align: left;
+  margin-left: 40px;
+}
+
+.img{
+  width: 220px;
+  height: 280px;
+  position: relative;
+  border-radius: 10px;
+}
+
+.btn{
+  background:none;
+  border: none;
+}
+
+.heart{
+  position: absolute;
+  margin-top: -275px;
+  margin-left: 210px;
+}
+BiHeart{
+  color: #ABD6E7;
+}
